@@ -6,11 +6,16 @@
 }
 ol{
 background-color: lightskyblue;
+
 }
 li{
     margin: 3px;
+    color:white;
 }
 [data-category="Electronics"]{
     list-style-type: upper-alpha;
+}
+[data-price="high"]{
+    font-weight: bold;
 }
     
