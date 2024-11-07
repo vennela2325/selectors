@@ -1,0 +1,16 @@
+[data-available="true"]{
+    background-color: green;
+}
+[data-available="false"]{
+    background-color: red;
+}
+ol{
+background-color: lightskyblue;
+}
+li{
+    margin: 3px;
+}
+[data-category="Electronics"]{
+    list-style-type: upper-alpha;
+}
+    
